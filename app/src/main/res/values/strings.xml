@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="nama">Gersonius Yoseph Realino Leto</string>
+    <string name="bio"> Saya adalah mahasiswa STMIK AKAKOM angkatan 2017. Saya mengambil Jurusan Sistem Informasi.\n
+        STMIK Akakom adalah kampus IT Jogja yang terletak di Bantul, Yogyakarta, Indonesia.\n\n\n
+        Dikenal oleh masyarakat sebagai kampus dengan fokus mencetak programmer bersertifikasi.\n
+        Saat ini STMIK AKAKOM telah berkolaborasi dengan NIIT, Asosiasi Cloud Computing Indonesia (ACCI), SEAMOLEC, National Taipei University of Technology (Taipei Tech), PT. Asuransi Sinarmas, PT. Gamatechno, Refractory, PT. Sebangsa Bersama, Dilo, PT. CBN, PT. Indonesia Indicator, Software Seni, dan berbagai perusahaan IT. \n
+        Selain itu juga bekerjasama dengan lembaga sertifikasi seperti Cisco Networking Academy, Oracle academy, MyOB dan cloud academy.
+    </string>
+</resources>
